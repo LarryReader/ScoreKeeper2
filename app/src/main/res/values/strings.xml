@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="touch_down">Touch Down</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="conv_kick">Conversion Kick</string>
+    <string name="conv_play">Conversion Play</string>
+    <string name="team_a">Redskins</string>
+    <string name="team_b">Cowboys</string>
+</resources>
